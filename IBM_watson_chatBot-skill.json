@@ -1,0 +1,1064 @@
+{
+  "intents": [
+    {
+      "intent": "android",
+      "examples": [
+        {
+          "text": "android applications"
+        },
+        {
+          "text": "android applications with java"
+        },
+        {
+          "text": "android studio"
+        },
+        {
+          "text": "Kotlin"
+        }
+      ],
+      "description": "user has the knowledge of android studio"
+    },
+    {
+      "intent": "cloud",
+      "examples": [
+        {
+          "text": "aws"
+        },
+        {
+          "text": "cloud"
+        },
+        {
+          "text": "cloud architecture"
+        },
+        {
+          "text": "gcp"
+        },
+        {
+          "text": "google cloud"
+        },
+        {
+          "text": "ibm watson"
+        },
+        {
+          "text": "microsoft azure"
+        },
+        {
+          "text": "virtual machines"
+        },
+        {
+          "text": "vmware"
+        }
+      ],
+      "description": "the user has the knowledge of cloud"
+    },
+    {
+      "intent": "datascience",
+      "examples": []
+    },
+    {
+      "intent": "Dbms",
+      "examples": [
+        {
+          "text": "database"
+        },
+        {
+          "text": "database management systems"
+        },
+        {
+          "text": "dbms"
+        },
+        {
+          "text": "manage databases"
+        },
+        {
+          "text": "mongodb"
+        },
+        {
+          "text": "mysql"
+        },
+        {
+          "text": "query"
+        },
+        {
+          "text": "sql"
+        }
+      ],
+      "description": "the user also has the knowledge of dbms"
+    },
+    {
+      "intent": "general",
+      "examples": [
+        {
+          "text": "Good afternoon"
+        },
+        {
+          "text": "Good Evening"
+        },
+        {
+          "text": "Good morning"
+        },
+        {
+          "text": "Hello"
+        },
+        {
+          "text": "hi"
+        },
+        {
+          "text": "Morning"
+        }
+      ],
+      "description": "hello, hi, good morning"
+    },
+    {
+      "intent": "helpapi",
+      "examples": [
+        {
+          "text": "How can I use the api ?"
+        },
+        {
+          "text": "How is the api useful ?"
+        },
+        {
+          "text": "What is the api for ?"
+        },
+        {
+          "text": "Where can I get the api token ?"
+        }
+      ],
+      "description": "user needs help in using the api"
+    },
+    {
+      "intent": "IOT",
+      "examples": [
+        {
+          "text": "adruino"
+        },
+        {
+          "text": "automation"
+        },
+        {
+          "text": "home automation"
+        },
+        {
+          "text": "Internet of things"
+        },
+        {
+          "text": "IOT"
+        },
+        {
+          "text": "raspberry pi"
+        }
+      ],
+      "description": "the user has the knowledge of IOT"
+    },
+    {
+      "intent": "job",
+      "examples": [
+        {
+          "text": "are there any suitable jobs for me"
+        },
+        {
+          "text": "Do you have any job recommendations for me ?"
+        },
+        {
+          "text": "Job recommendations"
+        },
+        {
+          "text": "recommend me jobs"
+        },
+        {
+          "text": "What are the available jobs for me"
+        },
+        {
+          "text": "Where can I get a job?"
+        }
+      ],
+      "description": "The user of this website looks for a job"
+    },
+    {
+      "intent": "jobapplicationstatus",
+      "examples": [
+        {
+          "text": "Did my job application get approved ?"
+        },
+        {
+          "text": "status of job application"
+        },
+        {
+          "text": "What happened to my job application"
+        },
+        {
+          "text": "What is the status of my job application ?"
+        },
+        {
+          "text": "Where can i find my job applications"
+        },
+        {
+          "text": "Where can I find the status of applied jobs ?"
+        }
+      ],
+      "description": "The user wants to know the status of applied jobs"
+    },
+    {
+      "intent": "learn",
+      "examples": [
+        {
+          "text": "Learn"
+        },
+        {
+          "text": "Learn ccna"
+        },
+        {
+          "text": "learn data science"
+        },
+        {
+          "text": "Learn front end development"
+        },
+        {
+          "text": "Learn full stack"
+        },
+        {
+          "text": "Learn machine learning"
+        },
+        {
+          "text": "learn networking"
+        },
+        {
+          "text": "Learn programming"
+        },
+        {
+          "text": "Learn python"
+        },
+        {
+          "text": "learn web development"
+        }
+      ],
+      "description": "The user asks for learning resources"
+    },
+    {
+      "intent": "network",
+      "examples": [
+        {
+          "text": "cisco"
+        },
+        {
+          "text": "cisco certified"
+        },
+        {
+          "text": "cisco certified network administrator"
+        },
+        {
+          "text": "network associate"
+        },
+        {
+          "text": "network engineer"
+        },
+        {
+          "text": "networking"
+        }
+      ],
+      "description": "the user has the knowledge of networking"
+    },
+    {
+      "intent": "programming",
+      "examples": [
+        {
+          "text": "Android application"
+        },
+        {
+          "text": "applications"
+        },
+        {
+          "text": "coding"
+        },
+        {
+          "text": "C programming"
+        },
+        {
+          "text": "C++ programming"
+        },
+        {
+          "text": "development"
+        },
+        {
+          "text": "Java Programmer"
+        },
+        {
+          "text": "programming"
+        },
+        {
+          "text": "Python programming"
+        },
+        {
+          "text": "R"
+        },
+        {
+          "text": "Ruby"
+        }
+      ],
+      "description": "Recognizes programming skills"
+    },
+    {
+      "intent": "salesforce",
+      "examples": [
+        {
+          "text": "salesforce"
+        },
+        {
+          "text": "salesforce admin"
+        },
+        {
+          "text": "salesforce certified"
+        },
+        {
+          "text": "salesforce crm"
+        },
+        {
+          "text": "salesforce developer"
+        },
+        {
+          "text": "salesforce platform developer"
+        }
+      ],
+      "description": "If the user has salesforce knowledge"
+    },
+    {
+      "intent": "sdlc",
+      "examples": [
+        {
+          "text": "agile framework"
+        },
+        {
+          "text": "I worked in development phase."
+        },
+        {
+          "text": "sdlc"
+        },
+        {
+          "text": "software development life cycle"
+        },
+        {
+          "text": "waterfall model"
+        }
+      ],
+      "description": "the user also has the knowledge of sdlc"
+    },
+    {
+      "intent": "webdevelopment",
+      "examples": [
+        {
+          "text": "angular"
+        },
+        {
+          "text": "bootstrap"
+        },
+        {
+          "text": "css"
+        },
+        {
+          "text": "full stack developer"
+        },
+        {
+          "text": "html"
+        },
+        {
+          "text": "I am good at web development"
+        },
+        {
+          "text": "I'm good at javascript"
+        },
+        {
+          "text": "javascript"
+        },
+        {
+          "text": "python flask"
+        },
+        {
+          "text": "react"
+        },
+        {
+          "text": "web development"
+        }
+      ],
+      "description": "the user has the knowledge of web development"
+    },
+    {
+      "intent": "websitedocumentation",
+      "examples": [
+        {
+          "text": "How to use the website?"
+        },
+        {
+          "text": "What are all the feature of the website"
+        },
+        {
+          "text": "Where is the source code of the website avialable ?"
+        },
+        {
+          "text": "Which technologies were used in the making of this website?"
+        }
+      ],
+      "description": "The user wants to see the documentation of the web site"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "Job",
+      "values": [],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "programming",
+      "values": [],
+      "fuzzy_match": true
+    }
+  ],
+  "metadata": {
+    "api_version": {
+      "major_version": "v2",
+      "minor_version": "2018-11-08"
+    },
+    "from-sample": true
+  },
+  "webhooks": [
+    {
+      "url": "https://getjobdemo.herokuapp.com/api/v1.0/jobs",
+      "name": "main_webhook",
+      "headers": [
+        {
+          "name": "Authorization",
+          "value": "Basic QHAhN29rZW4wRmNIQHQ4b3Q6dW51c2Vk"
+        }
+      ]
+    }
+  ],
+  "dialog_nodes": [
+    {
+      "type": "standard",
+      "title": "Anything else",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Sorry for the inconvenience, I'm having problems reaching the servers."
+              },
+              {
+                "text": "Can you reword your statement? I'm not understanding."
+              },
+              {
+                "text": "Sorry, I am unable to fetch information regarding this. Please try after sometime."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "anything_else",
+      "dialog_node": "Anything else",
+      "previous_sibling": "node_4_1620618424065",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "title": "job suggestions for cloud architect",
+      "parent": "node_4_1620618424065",
+      "actions": [
+        {
+          "name": "main_webhook",
+          "type": "webhook",
+          "parameters": {
+            "search": "cloud"
+          },
+          "result_variable": "webhook_result_8"
+        }
+      ],
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "#cloud",
+      "dialog_node": "node_10_1620621707669",
+      "previous_sibling": "node_5_1620620517506"
+    },
+    {
+      "type": "standard",
+      "title": "resources for learning",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Learning resources are provided on the landing page of the website and updated according to your profile. <br>"
+              },
+              {
+                "text": "Click <a href=\"learn\">here</a>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "conditions": "#learn",
+      "dialog_node": "node_10_1620621910702",
+      "previous_sibling": "node_1_1620798747209"
+    },
+    {
+      "type": "standard",
+      "title": "Provide documentation to the user",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "#websitedocumentation",
+      "dialog_node": "node_1_1620798747209"
+    },
+    {
+      "type": "standard",
+      "title": "job suggestions for a web developer",
+      "parent": "node_4_1620618424065",
+      "actions": [
+        {
+          "name": "main_webhook",
+          "type": "webhook",
+          "parameters": {
+            "search": "full-stack-developer"
+          },
+          "result_variable": "webhook_result_4"
+        }
+      ],
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "#webdevelopment",
+      "dialog_node": "node_2_1620905049293",
+      "previous_sibling": "node_5_1620621801205",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "title": "Job suggestions for programming",
+      "parent": "node_4_1620618424065",
+      "actions": [
+        {
+          "name": "main_webhook",
+          "type": "webhook",
+          "parameters": {
+            "search": "programmer"
+          },
+          "result_variable": "webhook_result_7"
+        }
+      ],
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "#programming",
+      "dialog_node": "node_3_1620618530073"
+    },
+    {
+      "type": "standard",
+      "title": "job suggestions for networking",
+      "parent": "node_4_1620618424065",
+      "actions": [
+        {
+          "name": "main_webhook",
+          "type": "webhook",
+          "parameters": {
+            "search": "network"
+          },
+          "result_variable": "webhook_result_5"
+        }
+      ],
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "#network",
+      "dialog_node": "node_3_1620618816114",
+      "previous_sibling": "node_3_1620618530073"
+    },
+    {
+      "type": "standard",
+      "title": "Job appplication status",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Your job application along with a copy of your resume is sent to the organization."
+              },
+              {
+                "text": "If your among the selected candidates, the organization's recruiters will contact you to set up a virtual interview."
+              },
+              {
+                "text": "To see your application status, click <a href=\"appliedjobs\">here </a>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "conditions": "#jobapplicationstatus",
+      "dialog_node": "node_3_1620621168254",
+      "previous_sibling": "node_10_1620621910702"
+    },
+    {
+      "type": "standard",
+      "title": "Job",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "What are you good at ?"
+              },
+              {
+                "text": "What skills do you have ?"
+              },
+              {
+                "text": "Which programming languages do you know ?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#job",
+      "dialog_node": "node_4_1620618424065",
+      "previous_sibling": "Welcome"
+    },
+    {
+      "type": "standard",
+      "title": "Job suggestions for android developer",
+      "parent": "node_4_1620618424065",
+      "actions": [
+        {
+          "name": "main_webhook",
+          "type": "webhook",
+          "parameters": {
+            "search": "android"
+          },
+          "result_variable": "webhook_result_6"
+        }
+      ],
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "#android",
+      "dialog_node": "node_5_1620620517506",
+      "previous_sibling": "node_3_1620618816114"
+    },
+    {
+      "type": "standard",
+      "title": "jobsuggestions for salesforce",
+      "parent": "node_4_1620618424065",
+      "actions": [
+        {
+          "name": "main_webhook",
+          "type": "webhook",
+          "parameters": {},
+          "result_variable": "webhook_result_9"
+        }
+      ],
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "#salesforce",
+      "dialog_node": "node_5_1620621801205",
+      "previous_sibling": "node_10_1620621707669"
+    },
+    {
+      "type": "standard",
+      "title": "helpapi",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "You can use the API to know the status of applied jobs, search for jobs based on skill, location or based on your profile, apply for a job and many more."
+              },
+              {
+                "text": "Refer to <a href=\"apipage\">API documentation</a>, to get your API key and to understand how to use the API."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "conditions": "#helpapi",
+      "dialog_node": "node_8_1620621042391",
+      "previous_sibling": "node_3_1620621168254"
+    },
+    {
+      "type": "standard",
+      "title": "Job suggestions for data scientist",
+      "parent": "node_4_1620618424065",
+      "actions": [
+        {
+          "name": "main_webhook",
+          "type": "webhook",
+          "parameters": {
+            "search": "Data"
+          },
+          "result_variable": "webhook_result_10"
+        }
+      ],
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "#datascience",
+      "dialog_node": "node_9_1621398725711",
+      "previous_sibling": "node_2_1620905049293"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "The website is developed as part of the vmware tanzu smartinternz project build-a-thon. The source code and other details are available on github. <a href=\"https://github.com/smartinternz02/SPS-9770-Skill-Job-Recommender-/blob/master/README.md\">Click here</a>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1620798747209",
+      "conditions": "#websitedocumentation",
+      "dialog_node": "response_10_1620799006787"
+    },
+    {
+      "type": "response_condition",
+      "parent": "node_10_1620621707669",
+      "conditions": "anything_else",
+      "dialog_node": "response_10_1621397191363",
+      "previous_sibling": "response_5_1621397190424"
+    },
+    {
+      "type": "response_condition",
+      "parent": "node_5_1620621801205",
+      "conditions": "anything_else",
+      "dialog_node": "response_10_1621397688763",
+      "previous_sibling": "response_6_1621397687674"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "<? $webhook_result_7.jobs[0] ?><br>"
+              },
+              {
+                "text": "<? $webhook_result_7.jobs[1] ?>\n"
+              },
+              {
+                "text": "<? $webhook_result_7.jobs[2] ?>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "node_3_1620618530073",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "user_input",
+        "dialog_node": "node_4_1620618424065"
+      },
+      "conditions": "$webhook_result_7.jobs",
+      "dialog_node": "response_1_1621346661374"
+    },
+    {
+      "type": "response_condition",
+      "parent": "node_9_1621398725711",
+      "conditions": "anything_else",
+      "dialog_node": "response_1_1621398755542",
+      "previous_sibling": "response_6_1621398752087"
+    },
+    {
+      "type": "response_condition",
+      "parent": "node_1_1620798747209",
+      "conditions": "anything_else",
+      "dialog_node": "response_2_1620799009534",
+      "previous_sibling": "response_10_1620799006787"
+    },
+    {
+      "type": "response_condition",
+      "parent": "node_2_1620905049293",
+      "conditions": "anything_else",
+      "dialog_node": "response_2_1620905154435",
+      "previous_sibling": "response_5_1620905153485"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "<? $webhook_result_5.jobs[0] ?><br>"
+              },
+              {
+                "text": "<? $webhook_result_5.jobs[1] ?>"
+              },
+              {
+                "text": "<? $webhook_result_5.jobs[2] ?>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "node_3_1620618816114",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "user_input",
+        "dialog_node": "node_3_1620618530073"
+      },
+      "conditions": "$webhook_result_5",
+      "dialog_node": "response_3_1621005178949"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "<? $webhook_result_6.jobs[0] ?><br>"
+              },
+              {
+                "text": "<? $webhook_result_6.jobs[1] ?>"
+              },
+              {
+                "text": "<? $webhook_result_6.jobs[2] ?>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "node_5_1620620517506",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "user_input",
+        "dialog_node": "node_4_1620618424065"
+      },
+      "conditions": "$webhook_result_6",
+      "dialog_node": "response_3_1621005679537"
+    },
+    {
+      "type": "response_condition",
+      "parent": "node_3_1620618530073",
+      "conditions": "anything_else",
+      "dialog_node": "response_3_1621346661842",
+      "previous_sibling": "response_1_1621346661374"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "<? $webhook_result_4.jobs[0] ?><br>"
+              },
+              {
+                "text": "<? $webhook_result_4.jobs[1] ?>"
+              },
+              {
+                "text": "<? $webhook_result_4.jobs[2] ?>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "node_2_1620905049293",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "user_input",
+        "dialog_node": "node_4_1620618424065"
+      },
+      "conditions": "$webhook_result_4.jobs",
+      "dialog_node": "response_5_1620905153485"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "<? $webhook_result_8.jobs[0] ?><br>"
+              },
+              {
+                "text": "<? $webhook_result_8.jobs[1] ?>"
+              },
+              {
+                "text": "<? $webhook_result_8.jobs[2] ?>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "node_10_1620621707669",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_4_1620618424065"
+      },
+      "conditions": "$webhook_result_8.jobs",
+      "dialog_node": "response_5_1621397190424"
+    },
+    {
+      "type": "response_condition",
+      "parent": "node_3_1620618816114",
+      "conditions": "anything_else",
+      "dialog_node": "response_6_1621005179887",
+      "previous_sibling": "response_3_1621005178949"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "text": {
+          "values": [
+            "<? $webhook_result_9.jobs[0] ?><br>",
+            "<? $webhook_result_9.jobs[1] ?><br>",
+            "<? $webhook_result_9.jobs[2] ?>"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_5_1620621801205",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "user_input",
+        "dialog_node": "node_4_1620618424065"
+      },
+      "conditions": "$webhook_result_9.jobs",
+      "dialog_node": "response_6_1621397687674"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "<? $webhook_result_10.jobs[0] ?><br>"
+              },
+              {
+                "text": "<? $webhook_result_10.jobs[1] ?><br>"
+              },
+              {
+                "text": "<? $webhook_result_10.jobs[2] ?>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "node_9_1621398725711",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "user_input",
+        "dialog_node": "node_4_1620618424065"
+      },
+      "conditions": "$webhook_result_10.jobs",
+      "dialog_node": "response_6_1621398752087"
+    },
+    {
+      "type": "response_condition",
+      "parent": "node_5_1620620517506",
+      "conditions": "anything_else",
+      "dialog_node": "response_7_1621005680547",
+      "previous_sibling": "response_3_1621005679537"
+    },
+    {
+      "type": "standard",
+      "title": "Welcome",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Hello. How can I help you?"
+              },
+              {
+                "text": "Hi. How can I help you ?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "welcome || #general",
+      "dialog_node": "Welcome",
+      "previous_sibling": "node_8_1620621042391"
+    }
+  ],
+  "counterexamples": [],
+  "system_settings": {
+    "off_topic": {
+      "enabled": true
+    },
+    "disambiguation": {
+      "prompt": "Did you mean:",
+      "enabled": true,
+      "randomize": true,
+      "max_suggestions": 5,
+      "suggestion_text_policy": "title",
+      "none_of_the_above_prompt": "None of the above"
+    },
+    "system_entities": {
+      "enabled": true
+    },
+    "human_agent_assist": {
+      "prompt": "Did you mean:"
+    },
+    "intent_classification": {
+      "training_backend_version": "v2"
+    },
+    "spelling_auto_correct": true
+  },
+  "learning_opt_out": false,
+  "name": "help",
+  "language": "en",
+  "description": "Helps in finding features of the website"
+}
